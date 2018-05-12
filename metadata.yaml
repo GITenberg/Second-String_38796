@@ -1,0 +1,34 @@
+_repo: Second-String_38796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: A portrait of early twentieth-century English life, Second String tells
+  the engrossing story of Vivian Wellgood and her fiancé, Harry Belfield, who is on
+  the threshold of a brilliant political career. A sense of reckoning permeates the
+  novel, as Belfield's stature begins to decline while that of an admiring follower
+  a man of the people begins to rise.
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Politicians -- Fiction'
+- !lcsh 'Great Britain -- Politics and government -- 20th century -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+title: Second String
+url: http://www.gutenberg.org/ebooks/38796
